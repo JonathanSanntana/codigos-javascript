@@ -1,0 +1,21 @@
+{
+  "client_id": "",
+  "timestamp_micros": "",
+  "events": [{"name": "purchase",
+              "params":{
+                    "session_id": "",
+                    "page_location": "",
+                    "session_number": "",
+                    "items": [{"item_id": "",
+                               "item_name": "",
+                               "price": "",
+                               "quantity": "1"
+                              }],
+                     "value": "",
+                     "currency": "BRL",
+                     "transaction_id": ""
+                    
+                        }
+              
+           }]
+}
